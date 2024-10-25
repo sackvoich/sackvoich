@@ -8,7 +8,7 @@ I'm Saveliy, a learning developer, especially passionate about Python 💖. I lo
 - **Neural Networks**: excited to dive into the world of AI.
 
 ## 📂 Featured Project
-- **[tvaryck-1.1](([https://github.com/sackvoich/tvaryck-1.1]))**: The project I'm most proud of so far! Check it out to see what I've been working on.
+- **[tvaryck-1.1](https://github.com/sackvoich/tvaryck-1.1)**: The project I'm most proud of so far! Check it out to see what I've been working on.
 
 ## 🛠️ Skills
 - Python (main love)
