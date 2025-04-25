@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Saveliy, a learning developer, especially passionate about Python 💖. I love exploring new technologies and expanding my skills, from neural networks to GUI development with Qt.
+I'm Saveliy, a learning developer, especially passionate about Python and Computer Vision💖. I love exploring new technologies and expanding my skills, from neural networks to GUI development with Qt.
 
 ## 💻 Technologies & Interests
 - **Python**: my main language and passion.
@@ -9,6 +9,10 @@ I'm Saveliy, a learning developer, especially passionate about Python 💖. I lo
 
 ## 📂 Featured Project
 - **[tvaryck-1.1](https://github.com/sackvoich/tvaryck-1.1)**: The project I'm most proud of so far! Check it out to see what I've been working on.
+
+## 🐕 Pet Projects
+- **[PhoneWebcam](https://github.com/sackvoich/PhoneWebcam)**: A project (Android application + Python server) that can be used to turn any Android phone into a full-fledged webcam.
+- **[YOLO_video_processing_bot](https://github.com/sackvoich/YOLO_video_processing_bot)**: A telegram bot that processes incoming videos from the user through the COCO-pre-trained YOLA 11 Nano model and outputs the same video, but with labels applied to objects (made for educational purposes as a methodological guide for laboratory work on the discipline "Integration of software modules and components".
 
 ## 🛠️ Skills
 - Python (main love)
