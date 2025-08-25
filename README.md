@@ -1,23 +1,43 @@
-# Hello, World! 👋
+# Hi, I'm Saveliy Kurashov 👋
 
-I'm Saveliy, a learning developer, especially passionate about Python and Computer Vision💖. I love exploring new technologies and expanding my skills, from neural networks to GUI development with Qt.
+I am a passionate developer with a strong interest in Python, Computer Vision, and AI. I enjoy building innovative solutions to real-world problems and continuously expanding my skill set, from developing neural networks to creating desktop applications with Qt.
 
-## 💻 Technologies & Interests
-- **Python**: my main language and passion.
-- **C# & Qt**: interested in developing desktop applications.
-- **Neural Networks**: excited to dive into the world of AI.
+## 💻 Tech Stack
 
-## 📂 Featured Project
-- **[tvaryck-1.1](https://github.com/sackvoich/tvaryck-1.1)**: The project I'm most proud of so far! Check it out to see what I've been working on.
+- **Languages:** Python, C#
+- **Libraries & Frameworks:** OpenCV, PyTorch, TensorFlow, YOLO, Qt, PySide6
+- **Technologies:** AI/ML, Computer Vision, GUI Development, Web Development, Docker
 
-## 🐕 Pet Projects
-- **[PhoneWebcam](https://github.com/sackvoich/PhoneWebcam)**: A project (Android application + Python server) that can be used to turn any Android phone into a full-fledged webcam.
-- **[YOLO_video_processing_bot](https://github.com/sackvoich/YOLO_video_processing_bot)**: A telegram bot that processes incoming videos from the user through the COCO-pre-trained YOLA 11 Nano model and outputs the same video, but with labels applied to objects (made for educational purposes as a methodological guide for laboratory work on the discipline "Integration of software modules and components".
+## 🏆 Awards and Recognition
 
-## 🛠️ Skills
-- Python (main love)
-- Basics of C# and Qt
-- Always learning, always curious 🤓
+- **Winner | "Best Technological Idea"** at the *III International Open Youth Competition of Technological Startup Projects "ERA Startup"*.
+- **Exhibitor at Digital Expo 2025** as part of the State Committee for Science and Technology stand.
+  
+*Both awarded for the **DoorSight** project.*
+
+## 📂 Projects
+
+### DoorSight (Closed Source)
+*An innovative "web guide" for people with visual impairments, designed to help them navigate spaces by recognizing open and closed doors.*
+
+- **Description:** This project leverages AI and Computer Vision to provide a unique navigation solution. It has gained international recognition for its novel approach and social impact.
+- **Technologies:** AI (YOLO, Classifiers), OpenCV, HTML5, CSS, JS, System Deployment (Docker, Docker Compose).
+- **Note:** While the repository is private, you can learn more about the project on my [LinkedIn profile](https://www.linkedin.com/in/saveliy-kurashov-3ab4a0328/).
+
+### [tvaryck-1.1](https://github.com/sackvoich/tvaryck-1.1)
+*A desktop application for applying masks and clothing to people in a real-time video stream.*
+
+- **Technologies:** Python, Computer Vision, PySide6, AI.
+
+### [PhoneWebcam](https://github.com/sackvoich/PhoneWebcam)
+*An Android application and Python server that turns any Android phone into a full-fledged webcam.*
+
+- **Technologies:** Python, Android.
+
+### [YOLO_video_processing_bot](https://github.com/sackvoich/YOLO_video_processing_bot)
+*A Telegram bot that processes user-submitted videos with a pre-trained YOLOv8 Nano model to detect and label objects.*
+
+- **Technologies:** Python, YOLOv8, Telegram API.
 
 ## 🌱 Personal & Hobbies
 - **Basketball** 🏀: Always down for a game.
@@ -27,9 +47,3 @@ I'm Saveliy, a learning developer, especially passionate about Python and Comput
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/saveliy-kurashov-3ab4a0328/)
 - [Telegram](https://t.me/sackvoich)
-
-## ✨ Fun Quote
-> "Sit and write, stand and write, lie down and write." - Jason Statham
-
-Thanks for stopping by! Feel free to connect or just say hi. I'm always up for collaboration or exploring new ideas! 😊
-
